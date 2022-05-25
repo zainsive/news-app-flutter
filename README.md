@@ -1,16 +1,37 @@
-# tutor_side
 
-A new Flutter project.
+# News App
 
-## Getting Started
+A brief description of what this project does and who it's for
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Acknowledgements
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ - [Flutter](https://docs.flutter.dev/)
+ - [Nodejs](https://nodejs.org/en/docs/)
+ - [News API](https://newsapi.org/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Authors
+
+- [@zainsive](https://github.com/zainsive)
+- [@AmirIjaz7](https://github.com/AamirIjaz7)
+- [@asad-link](https://github.com/asad-link)
+
+
+## Screenshots
+
+![News App Screenshot](https://raw.githubusercontent.com/zainsive/news-app-flutter/master/ss/Scene1.png)
+## Screens
+![News App Screenshot](https://raw.githubusercontent.com/zainsive/news-app-flutter/master/ss/Scene%202.png)
+![News App Screenshot](https://raw.githubusercontent.com/zainsive/news-app-flutter/master/ss/scene%204.png)
+![News App Screenshot](https://raw.githubusercontent.com/zainsive/news-app-flutter/master/ss/scene%205.png)
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  flutter pub get
+```
+
